@@ -63,7 +63,8 @@ html {
   clip-path: polygon(100% 0%, 0% 100%, 100% 100%);
 }
 .btn:hover {
-  color: white;
+  background-color: #0d9979;
+  color: #fff;
 }
 
 header {
